@@ -10,7 +10,7 @@
 	</info>
 	<files>
 		<!-- Races -->
-    <file name="subrace-shadowfey.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/races/subrace-ShadowFey.xml" />
+    <file name="subrace-shadowfey.xml" url="https://raw.githubusercontent.com/StGregori/Shadow-Fey-for-5e/master/Shadow%20Fey" />
 		<file name="race-dryad.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/races/race-dryad.xml" />
 		<file name="race-homunculus.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/races/race-homunculus.xml" />
 		<file name="subrace-firebearddwarf.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/races/subrace-firebearddwarf.xml" />
