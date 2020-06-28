@@ -62,7 +62,7 @@ Mentions of alternate planes, chaos, and time magic - particularly in the enviro
             <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_SHADOW_FEY_SUNLIGHT_SENSITIVITY" />
             <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_SHADOW_FEY_TRAVELER_IN_DARKNESS" />
             <grant type="Language" id="ID_LANGUAGE_COMMON" />
-            <grant type="Language" id="ID_LANGUAGE_UMBRAL" />
+            <grant type="Language" id="ID_LANGUAGE_NETHERESE" />
         </rules>
     </element>
     <element name="Weapon Training" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_SHADOW_FEY_WEAPON_TRAINING">
